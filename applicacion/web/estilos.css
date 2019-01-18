@@ -1,0 +1,27 @@
+.contenedor{
+    display: inline-block;
+  
+    padding:3% 5% 3% 5%;
+}
+.ima{
+     align:left;
+     width:20%;  height: 300px;
+}
+.formulario{
+    display: block;
+}
+.titulo{
+    padding: 0% 3% 3% 3%;
+       
+}
+.total{
+   margin-left: 80%;
+}
+.botones{
+        display: inline;  
+        
+}
+.b1{
+    margin-left: 80%;
+    margin-top: -7%;
+    }
